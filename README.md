@@ -4,7 +4,7 @@ Problem Statement:
 * Checking the availability of blood at blood banks, beds at hospital is a very long process for any common man.
 * In case of emergency unavailability of proper treatment or some resources can cost a life.
 * Doctors for animals are very less in number and are mostly situated at remote areas , resulting in unawareness among pet keepers of their availability.
-* On time treatment for stray dogs is unavailable .
+
 
 Solution:   <b>PatientHelpline  </b>
 
@@ -22,5 +22,7 @@ Team details:
 Team name - <b>Coding Squad</b>
 
 Team members - 1) Kundan Kunal  2) Chahat Data
+
+Social media - kunal_ku0 , chahat_316
 
 
